@@ -131,8 +131,7 @@
 					"imagem": "url_da_imagem_dia_6"
 				}
 			]
-		},
-		
+		}
 	],
 	"hoteis": [
 		{
@@ -224,9 +223,7 @@
 				"Praia privativa",
 				"Piscina privativa"
 			]
-		},
-		
-		
+		}
 	],
 	"voos": [
 		{
@@ -262,7 +259,6 @@
 			"ida": "2024-05-10T11:25",
 			"volta": "2024-05-18T23:50"
 		},
-		
 		{
 			"id": 6,
 			"origem": "São Paulo, Brasil",
@@ -295,9 +291,7 @@
 			"classe": "Econômica",
 			"ida": "2024-05-11T22:15",
 			"volta": "2024-05-19T21:00"
-		},
-		
-		
+		}
 	],
 	"cotacoes": [
 		{
@@ -384,7 +378,5 @@
 			},
 			"custo_total": 7360.00
 		}
-		
-		
 	]
 }

@@ -1,0 +1,665 @@
+{
+	"roteiros": [
+		{
+			"id": 13,
+			"destino": "Nova Zelândia",
+			"duracao": 10,
+			"interesse": "aventura e paisagens",
+			"imagem": "url_da_imagem_nova_zelandia",
+			"roteiro": [
+				{
+					"dia": 1,
+					"atividade": "Chegada em Auckland e passeio pela Sky Tower.",
+					"imagem": "url_da_imagem_dia_1"
+				},
+				{
+					"dia": 2,
+					"atividade": "Visita às praias de Coromandel.",
+					"imagem": "url_da_imagem_dia_2"
+				},
+				{
+					"dia": 3,
+					"atividade": "Explorar as cavernas de Waitomo Glowworm.",
+					"imagem": "url_da_imagem_dia_3"
+				},
+				{
+					"dia": 4,
+					"atividade": "Passeio geotérmico em Rotorua.",
+					"imagem": "url_da_imagem_dia_4"
+				},
+				{
+					"dia": 5,
+					"atividade": "Viagem para Taupo e cachoeira Huka Falls.",
+					"imagem": "url_da_imagem_dia_5"
+				},
+				{
+					"dia": 6,
+					"atividade": "Explorar o Parque Nacional Tongariro.",
+					"imagem": "url_da_imagem_dia_6"
+				},
+				{
+					"dia": 7,
+					"atividade": "Passeio em Queenstown e Bungy Jumping.",
+					"imagem": "url_da_imagem_dia_7"
+				},
+				{
+					"dia": 8,
+					"atividade": "Viagem para Milford Sound: cruzeiro.",
+					"imagem": "url_da_imagem_dia_8"
+				},
+				{
+					"dia": 9,
+					"atividade": "Visitação à geleira Franz Josef.",
+					"imagem": "url_da_imagem_dia_9"
+				},
+				{
+					"dia": 10,
+					"atividade": "Retorno ao aeroporto em Auckland.",
+					"imagem": "url_da_imagem_dia_10"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"destino": "África do Sul",
+			"duracao": 9,
+			"interesse": "safáris e natureza",
+			"imagem": "url_da_imagem_africa_do_sul",
+			"roteiro": [
+				{
+					"dia": 1,
+					"atividade": "Chegada na Cidade do Cabo e visita ao Waterfront.",
+					"imagem": "url_da_imagem_dia_1"
+				},
+				{
+					"dia": 2,
+					"atividade": "Subida à Table Mountain e passeio em Bo-Kaap.",
+					"imagem": "url_da_imagem_dia_2"
+				},
+				{
+					"dia": 3,
+					"atividade": "Dia em Cape Point e praias locais.",
+					"imagem": "url_da_imagem_dia_3"
+				},
+				{
+					"dia": 4,
+					"atividade": "Visita às vinícolas de Stellenbosch.",
+					"imagem": "url_da_imagem_dia_4"
+				},
+				{
+					"dia": 5,
+					"atividade": "Viagem para o Parque Nacional Kruger.",
+					"imagem": "url_da_imagem_dia_5"
+				},
+				{
+					"dia": 6,
+					"atividade": "Safári matinal no Kruger.",
+					"imagem": "url_da_imagem_dia_6"
+				},
+				{
+					"dia": 7,
+					"atividade": "Passeio por trilhas na reserva natural.",
+					"imagem": "url_da_imagem_dia_7"
+				},
+				{
+					"dia": 8,
+					"atividade": "Visita ao Blyde River Canyon.",
+					"imagem": "url_da_imagem_dia_8"
+				},
+				{
+					"dia": 9,
+					"atividade": "Retorno ao aeroporto de Joanesburgo.",
+					"imagem": "url_da_imagem_dia_9"
+				}
+			]
+		},
+		{
+			"id": 15,
+			"destino": "Tailândia",
+			"duracao": 8,
+			"interesse": "praias e cultura",
+			"imagem": "url_da_imagem_tailandia",
+			"roteiro": [
+				{
+					"dia": 1,
+					"atividade": "Chegada em Bangkok e visita ao Grande Palácio.",
+					"imagem": "url_da_imagem_dia_1"
+				},
+				{
+					"dia": 2,
+					"atividade": "Explorar mercados flutuantes e templos locais.",
+					"imagem": "url_da_imagem_dia_2"
+				},
+				{
+					"dia": 3,
+					"atividade": "Viagem para Chiang Mai e visita ao Templo Doi Suthep.",
+					"imagem": "url_da_imagem_dia_3"
+				},
+				{
+					"dia": 4,
+					"atividade": "Passeio com elefantes em reservas éticas.",
+					"imagem": "url_da_imagem_dia_4"
+				},
+				{
+					"dia": 5,
+					"atividade": "Explorar praias em Phuket.",
+					"imagem": "url_da_imagem_dia_5"
+				},
+				{
+					"dia": 6,
+					"atividade": "Passeio nas ilhas Phi Phi.",
+					"imagem": "url_da_imagem_dia_6"
+				},
+				{
+					"dia": 7,
+					"atividade": "Relaxar na praia de Railay.",
+					"imagem": "url_da_imagem_dia_7"
+				},
+				{
+					"dia": 8,
+					"atividade": "Retorno ao aeroporto em Bangkok.",
+					"imagem": "url_da_imagem_dia_8"
+				}
+			]
+		},
+		{
+			"id": 16,
+			"destino": "Argentina",
+			"duracao": 7,
+			"interesse": "gastronomia e paisagens",
+			"imagem": "url_da_imagem_argentina",
+			"roteiro": [
+				{
+					"dia": 1,
+					"atividade": "Chegada em Buenos Aires e visita ao bairro La Boca.",
+					"imagem": "url_da_imagem_dia_1"
+				},
+				{
+					"dia": 2,
+					"atividade": "City tour: Casa Rosada e Recoleta.",
+					"imagem": "url_da_imagem_dia_2"
+				},
+				{
+					"dia": 3,
+					"atividade": "Degustação de vinhos em Mendoza.",
+					"imagem": "url_da_imagem_dia_3"
+				},
+				{
+					"dia": 4,
+					"atividade": "Explorar o Parque Provincial Aconcágua.",
+					"imagem": "url_da_imagem_dia_4"
+				},
+				{
+					"dia": 5,
+					"atividade": "Viagem para o Glaciar Perito Moreno.",
+					"imagem": "url_da_imagem_dia_5"
+				},
+				{
+					"dia": 6,
+					"atividade": "Passeio de barco no Parque Nacional Los Glaciares.",
+					"imagem": "url_da_imagem_dia_6"
+				},
+				{
+					"dia": 7,
+					"atividade": "Retorno ao aeroporto em Buenos Aires.",
+					"imagem": "url_da_imagem_dia_7"
+				}
+			]
+		},
+		{
+			"id": 17,
+			"destino": "Rússia",
+			"duracao": 8,
+			"interesse": "história e cultura",
+			"imagem": "url_da_imagem_russia",
+			"roteiro": [
+				{
+					"dia": 1,
+					"atividade": "Chegada em Moscou e visita à Praça Vermelha.",
+					"imagem": "url_da_imagem_dia_1"
+				},
+				{
+					"dia": 2,
+					"atividade": "Explorar o Kremlin e a Catedral de São Basílio.",
+					"imagem": "url_da_imagem_dia_2"
+				},
+				{
+					"dia": 3,
+					"atividade": "Passeio pelo Teatro Bolshoi.",
+					"imagem": "url_da_imagem_dia_3"
+				},
+				{
+					"dia": 4,
+					"atividade": "Viagem para São Petersburgo.",
+					"imagem": "url_da_imagem_dia_4"
+				},
+				{
+					"dia": 5,
+					"atividade": "Visita ao Museu Hermitage.",
+					"imagem": "url_da_imagem_dia_5"
+				},
+				{
+					"dia": 6,
+					"atividade": "Explorar os Palácios de Peterhof.",
+					"imagem": "url_da_imagem_dia_6"
+				},
+				{
+					"dia": 7,
+					"atividade": "Passeio por canais de São Petersburgo.",
+					"imagem": "url_da_imagem_dia_7"
+				},
+				{
+					"dia": 8,
+					"atividade": "Retorno ao aeroporto.",
+					"imagem": "url_da_imagem_dia_8"
+				}
+			]
+		}
+	],
+	"hoteis": [
+		{
+			"id": 1,
+			"nome": "SkyCity Hotel",
+			"localizacao": "Auckland, Nova Zelândia",
+			"avaliacao": 4.5,
+			"preco_diaria": 150.00,
+			"imagem": "url_da_imagem_skycity_hotel",
+			"destino": "Nova Zelândia",
+			"amenidades": [
+				"Wi-Fi grátis",
+				"Academia",
+				"Piscina",
+				"Café da manhã incluso"
+			]
+		},
+		{
+			"id": 2,
+			"nome": "Hilton Queenstown Resort & Spa",
+			"localizacao": "Queenstown, Nova Zelândia",
+			"avaliacao": 4.6,
+			"preco_diaria": 200.00,
+			"imagem": "url_da_imagem_hilton_queenstown",
+			"destino": "Nova Zelândia",
+			"amenidades": [
+				"Spa de luxo",
+				"Vista para o lago",
+				"Piscina aquecida",
+				"Restaurante gourmet"
+			]
+		},
+		{
+			"id": 3,
+			"nome": "The Silo Hotel",
+			"localizacao": "Cidade do Cabo, África do Sul",
+			"avaliacao": 4.8,
+			"preco_diaria": 300.00,
+			"imagem": "url_da_imagem_silo_hotel",
+			"destino": "África do Sul",
+			"amenidades": [
+				"Spa",
+				"Vista panorâmica",
+				"Wi-Fi grátis",
+				"Cozinha internacional"
+			]
+		},
+		{
+			"id": 4,
+			"nome": "Kruger Shalati Lodge",
+			"localizacao": "Parque Nacional Kruger, África do Sul",
+			"avaliacao": 4.8,
+			"preco_diaria": 400.00,
+			"imagem": "url_da_imagem_kruger_shalati",
+			"destino": "África do Sul",
+			"amenidades": [
+				"Vista sobre a savana",
+				"Safári incluso",
+				"Piscina infinita",
+				"Gastronomia local"
+			]
+		},
+		{
+			"id": 5,
+			"nome": "Shangri-La Hotel",
+			"localizacao": "Bangkok, Tailândia",
+			"avaliacao": 4.7,
+			"preco_diaria": 220.00,
+			"imagem": "url_da_imagem_shangrila_hotel",
+			"destino": "Tailândia",
+			"amenidades": [
+				"Piscina à beira do rio",
+				"Serviço de quarto 24h",
+				"Sauna",
+				"Restaurante tailandês"
+			]
+		},
+		{
+			"id": 6,
+			"nome": "The Pavilions Phuket",
+			"localizacao": "Phuket, Tailândia",
+			"avaliacao": 4.9,
+			"preco_diaria": 250.00,
+			"imagem": "url_da_imagem_pavilions_phuket",
+			"destino": "Tailândia",
+			"amenidades": [
+				"Villas de luxo",
+				"Serviço de massagem",
+				"Praia privativa",
+				"Piscina privativa"
+			]
+		},
+		{
+			"id": 7,
+			"nome": "Alvear Palace Hotel",
+			"localizacao": "Buenos Aires, Argentina",
+			"avaliacao": 4.9,
+			"preco_diaria": 350.00,
+			"imagem": "url_da_imagem_alvear_palace_hotel",
+			"destino": "Argentina",
+			"amenidades": [
+				"Bar sofisticado",
+				"Concierge",
+				"Jacuzzi",
+				"Café da manhã incluso"
+			]
+		},
+		{
+			"id": 8,
+			"nome": "Los Cauquenes Resort",
+			"localizacao": "Ushuaia, Argentina",
+			"avaliacao": 4.7,
+			"preco_diaria": 270.00,
+			"imagem": "url_da_imagem_los_cauquenes",
+			"destino": "Argentina",
+			"amenidades": [
+				"Frente ao canal Beagle",
+				"Tours personalizados",
+				"Sauna e piscina",
+				"Vista das montanhas"
+			]
+		},
+		{
+			"id": 9,
+			"nome": "National Hotel Moscow",
+			"localizacao": "Moscou, Rússia",
+			"avaliacao": 4.6,
+			"preco_diaria": 180.00,
+			"imagem": "url_da_imagem_national_hotel",
+			"destino": "Rússia",
+			"amenidades": [
+				"Wi-Fi grátis",
+				"Próximo da Praça Vermelha",
+				"Academia",
+				"Recepção 24h"
+			]
+		},
+		{
+			"id": 10,
+			"nome": "Four Seasons Hotel",
+			"localizacao": "São Petersburgo, Rússia",
+			"avaliacao": 4.9,
+			"preco_diaria": 450.00,
+			"imagem": "url_da_imagem_four_seasons_sp",
+			"destino": "Rússia",
+			"amenidades": [
+				"Localizado próximo ao Hermitage",
+				"Spa de luxo",
+				"Restaurante internacional",
+				"Concierge exclusivo"
+			]
+		}
+	],
+	"voos": [
+		{
+			"id": 1,
+			"origem": "São Paulo, Brasil",
+			"destino": "Auckland, Nova Zelândia",
+			"companhia_aerea": "LATAM Airlines",
+			"duracao": "20h30min",
+			"preco": 4500.00,
+			"classe": "Econômica",
+			"ida": "2024-03-01T22:30",
+			"volta": "2024-03-11T18:45"
+		},
+		{
+			"id": 2,
+			"origem": "Rio de Janeiro, Brasil",
+			"destino": "Cidade do Cabo, África do Sul",
+			"companhia_aerea": "South African Airways",
+			"duracao": "11h",
+			"preco": 3200.00,
+			"classe": "Econômica",
+			"ida": "2024-04-05T20:00",
+			"volta": "2024-04-14T08:30"
+		},
+		{
+			"id": 3,
+			"origem": "Brasília, Brasil",
+			"destino": "Bangkok, Tailândia",
+			"companhia_aerea": "Qatar Airways",
+			"duracao": "23h",
+			"preco": 5600.00,
+			"classe": "Econômica",
+			"ida": "2024-05-10T11:25",
+			"volta": "2024-05-18T23:50"
+		},
+		{
+			"id": 4,
+			"origem": "São Paulo, Brasil",
+			"destino": "Buenos Aires, Argentina",
+			"companhia_aerea": "Gol Linhas Aéreas",
+			"duracao": "3h30min",
+			"preco": 1200.00,
+			"classe": "Econômica",
+			"ida": "2024-06-15T14:30",
+			"volta": "2024-06-22T10:00"
+		},
+		{
+			"id": 5,
+			"origem": "Rio de Janeiro, Brasil",
+			"destino": "Moscou, Rússia",
+			"companhia_aerea": "Lufthansa",
+			"duracao": "15h",
+			"preco": 5200.00,
+			"classe": "Econômica",
+			"ida": "2024-07-20T21:40",
+			"volta": "2024-07-28T19:10"
+		},
+		{
+			"id": 6,
+			"origem": "São Paulo, Brasil",
+			"destino": "Queenstown, Nova Zelândia",
+			"companhia_aerea": "Emirates",
+			"duracao": "22h15min",
+			"preco": 4800.00,
+			"classe": "Econômica",
+			"ida": "2024-03-02T08:00",
+			"volta": "2024-03-12T12:30"
+		},
+		{
+			"id": 7,
+			"origem": "Brasília, Brasil",
+			"destino": "Parque Nacional Kruger, África do Sul",
+			"companhia_aerea": "South African Airways",
+			"duracao": "13h",
+			"preco": 3400.00,
+			"classe": "Econômica",
+			"ida": "2024-04-06T17:50",
+			"volta": "2024-04-13T15:45"
+		},
+		{
+			"id": 8,
+			"origem": "Recife, Brasil",
+			"destino": "Phuket, Tailândia",
+			"companhia_aerea": "Singapore Airlines",
+			"duracao": "25h",
+			"preco": 6100.00,
+			"classe": "Econômica",
+			"ida": "2024-05-11T22:15",
+			"volta": "2024-05-19T21:00"
+		},
+		{
+			"id": 9,
+			"origem": "São Paulo, Brasil",
+			"destino": "Ushuaia, Argentina",
+			"companhia_aerea": "Aerolineas Argentinas",
+			"duracao": "6h45min",
+			"preco": 1800.00,
+			"classe": "Econômica",
+			"ida": "2024-06-16T09:00",
+			"volta": "2024-06-23T12:15"
+		},
+		{
+			"id": 10,
+			"origem": "Rio de Janeiro, Brasil",
+			"destino": "São Petersburgo, Rússia",
+			"companhia_aerea": "Air France",
+			"duracao": "16h",
+			"preco": 5400.00,
+			"classe": "Econômica",
+			"ida": "2024-07-21T12:40",
+			"volta": "2024-07-29T06:50"
+		}
+	],
+	"cotacoes": [
+		{
+			"destino": "Nova Zelândia",
+			"voo": {
+				"origem": "São Paulo, Brasil",
+				"destino": "Auckland, Nova Zelândia",
+				"companhia_aerea": "LATAM Airlines",
+				"duracao": "20h30min",
+				"preco": 4500.00,
+				"classe": "Econômica",
+				"ida": "2024-03-01T22:30",
+				"volta": "2024-03-11T18:45"
+			},
+			"hotel": {
+				"nome": "SkyCity Hotel",
+				"localizacao": "Auckland, Nova Zelândia",
+				"avaliacao": 4.5,
+				"preco_diaria": 150.00,
+				"total_diarias": 10,
+				"total_hospedagem": 1500.00,
+				"amenidades": [
+					"Wi-Fi grátis",
+					"Academia",
+					"Piscina",
+					"Café da manhã incluso"
+				]
+			},
+			"custo_total": 6000.00
+		},
+		{
+			"destino": "África do Sul",
+			"voo": {
+				"origem": "Rio de Janeiro, Brasil",
+				"destino": "Cidade do Cabo, África do Sul",
+				"companhia_aerea": "South African Airways",
+				"duracao": "11h",
+				"preco": 3200.00,
+				"classe": "Econômica",
+				"ida": "2024-04-05T20:00",
+				"volta": "2024-04-14T08:30"
+			},
+			"hotel": {
+				"nome": "The Silo Hotel",
+				"localizacao": "Cidade do Cabo, África do Sul",
+				"avaliacao": 4.8,
+				"preco_diaria": 300.00,
+				"total_diarias": 9,
+				"total_hospedagem": 2700.00,
+				"amenidades": [
+					"Spa",
+					"Vista panorâmica",
+					"Wi-Fi grátis",
+					"Cozinha internacional"
+				]
+			},
+			"custo_total": 5900.00
+		},
+		{
+			"destino": "Tailândia",
+			"voo": {
+				"origem": "Brasília, Brasil",
+				"destino": "Bangkok, Tailândia",
+				"companhia_aerea": "Qatar Airways",
+				"duracao": "23h",
+				"preco": 5600.00,
+				"classe": "Econômica",
+				"ida": "2024-05-10T11:25",
+				"volta": "2024-05-18T23:50"
+			},
+			"hotel": {
+				"nome": "Shangri-La Hotel",
+				"localizacao": "Bangkok, Tailândia",
+				"avaliacao": 4.7,
+				"preco_diaria": 220.00,
+				"total_diarias": 8,
+				"total_hospedagem": 1760.00,
+				"amenidades": [
+					"Piscina à beira do rio",
+					"Serviço de quarto 24h",
+					"Sauna",
+					"Restaurante tailandês"
+				]
+			},
+			"custo_total": 7360.00
+		},
+		{
+			"destino": "Argentina",
+			"voo": {
+				"origem": "São Paulo, Brasil",
+				"destino": "Buenos Aires, Argentina",
+				"companhia_aerea": "Gol Linhas Aéreas",
+				"duracao": "3h30min",
+				"preco": 1200.00,
+				"classe": "Econômica",
+				"ida": "2024-06-15T14:30",
+				"volta": "2024-06-22T10:00"
+			},
+			"hotel": {
+				"nome": "Alvear Palace Hotel",
+				"localizacao": "Buenos Aires, Argentina",
+				"avaliacao": 4.9,
+				"preco_diaria": 350.00,
+				"total_diarias": 7,
+				"total_hospedagem": 2450.00,
+				"amenidades": [
+					"Bar sofisticado",
+					"Concierge",
+					"Jacuzzi",
+					"Café da manhã incluso"
+				]
+			},
+			"custo_total": 3650.00
+		},
+		{
+			"destino": "Rússia",
+			"voo": {
+				"origem": "Rio de Janeiro, Brasil",
+				"destino": "São Petersburgo, Rússia",
+				"companhia_aerea": "Air France",
+				"duracao": "16h",
+				"preco": 5400.00,
+				"classe": "Econômica",
+				"ida": "2024-07-21T12:40",
+				"volta": "2024-07-29T06:50"
+			},
+			"hotel": {
+				"nome": "Four Seasons Hotel",
+				"localizacao": "São Petersburgo, Rússia",
+				"avaliacao": 4.9,
+				"preco_diaria": 450.00,
+				"total_diarias": 8,
+				"total_hospedagem": 3600.00,
+				"amenidades": [
+					"Localizado próximo ao Hermitage",
+					"Spa de luxo",
+					"Restaurante internacional",
+					"Concierge exclusivo"
+				]
+			},
+			"custo_total": 9000.00
+		}
+	]
+}

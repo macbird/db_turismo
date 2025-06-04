@@ -163,50 +163,6 @@
 			]
 		},
 		{
-			"id": 16,
-			"destino": "Argentina",
-			"duracao": 7,
-			"interesse": "gastronomia e paisagens",
-			"imagem": "url_da_imagem_argentina",
-			"roteiro": [
-				{
-					"dia": 1,
-					"atividade": "Chegada em Buenos Aires e visita ao bairro La Boca.",
-					"imagem": "url_da_imagem_dia_1"
-				},
-				{
-					"dia": 2,
-					"atividade": "City tour: Casa Rosada e Recoleta.",
-					"imagem": "url_da_imagem_dia_2"
-				},
-				{
-					"dia": 3,
-					"atividade": "Degustação de vinhos em Mendoza.",
-					"imagem": "url_da_imagem_dia_3"
-				},
-				{
-					"dia": 4,
-					"atividade": "Explorar o Parque Provincial Aconcágua.",
-					"imagem": "url_da_imagem_dia_4"
-				},
-				{
-					"dia": 5,
-					"atividade": "Viagem para o Glaciar Perito Moreno.",
-					"imagem": "url_da_imagem_dia_5"
-				},
-				{
-					"dia": 6,
-					"atividade": "Passeio de barco no Parque Nacional Los Glaciares.",
-					"imagem": "url_da_imagem_dia_6"
-				},
-				{
-					"dia": 7,
-					"atividade": "Retorno ao aeroporto em Buenos Aires.",
-					"imagem": "url_da_imagem_dia_7"
-				}
-			]
-		},
-		{
 			"id": 17,
 			"destino": "Rússia",
 			"duracao": 8,
@@ -347,36 +303,7 @@
 				"Piscina privativa"
 			]
 		},
-		{
-			"id": 7,
-			"nome": "Alvear Palace Hotel",
-			"localizacao": "Buenos Aires, Argentina",
-			"avaliacao": 4.9,
-			"preco_diaria": 350.00,
-			"imagem": "url_da_imagem_alvear_palace_hotel",
-			"destino": "Argentina",
-			"amenidades": [
-				"Bar sofisticado",
-				"Concierge",
-				"Jacuzzi",
-				"Café da manhã incluso"
-			]
-		},
-		{
-			"id": 8,
-			"nome": "Los Cauquenes Resort",
-			"localizacao": "Ushuaia, Argentina",
-			"avaliacao": 4.7,
-			"preco_diaria": 270.00,
-			"imagem": "url_da_imagem_los_cauquenes",
-			"destino": "Argentina",
-			"amenidades": [
-				"Frente ao canal Beagle",
-				"Tours personalizados",
-				"Sauna e piscina",
-				"Vista das montanhas"
-			]
-		},
+		
 		{
 			"id": 9,
 			"nome": "National Hotel Moscow",
@@ -443,17 +370,6 @@
 			"volta": "2024-05-18T23:50"
 		},
 		{
-			"id": 4,
-			"origem": "São Paulo, Brasil",
-			"destino": "Buenos Aires, Argentina",
-			"companhia_aerea": "Gol Linhas Aéreas",
-			"duracao": "3h30min",
-			"preco": 1200.00,
-			"classe": "Econômica",
-			"ida": "2024-06-15T14:30",
-			"volta": "2024-06-22T10:00"
-		},
-		{
 			"id": 5,
 			"origem": "Rio de Janeiro, Brasil",
 			"destino": "Moscou, Rússia",
@@ -497,17 +413,7 @@
 			"ida": "2024-05-11T22:15",
 			"volta": "2024-05-19T21:00"
 		},
-		{
-			"id": 9,
-			"origem": "São Paulo, Brasil",
-			"destino": "Ushuaia, Argentina",
-			"companhia_aerea": "Aerolineas Argentinas",
-			"duracao": "6h45min",
-			"preco": 1800.00,
-			"classe": "Econômica",
-			"ida": "2024-06-16T09:00",
-			"volta": "2024-06-23T12:15"
-		},
+		
 		{
 			"id": 10,
 			"origem": "Rio de Janeiro, Brasil",
@@ -605,34 +511,7 @@
 			},
 			"custo_total": 7360.00
 		},
-		{
-			"destino": "Argentina",
-			"voo": {
-				"origem": "São Paulo, Brasil",
-				"destino": "Buenos Aires, Argentina",
-				"companhia_aerea": "Gol Linhas Aéreas",
-				"duracao": "3h30min",
-				"preco": 1200.00,
-				"classe": "Econômica",
-				"ida": "2024-06-15T14:30",
-				"volta": "2024-06-22T10:00"
-			},
-			"hotel": {
-				"nome": "Alvear Palace Hotel",
-				"localizacao": "Buenos Aires, Argentina",
-				"avaliacao": 4.9,
-				"preco_diaria": 350.00,
-				"total_diarias": 7,
-				"total_hospedagem": 2450.00,
-				"amenidades": [
-					"Bar sofisticado",
-					"Concierge",
-					"Jacuzzi",
-					"Café da manhã incluso"
-				]
-			},
-			"custo_total": 3650.00
-		},
+		
 		{
 			"destino": "Rússia",
 			"voo": {

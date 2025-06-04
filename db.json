@@ -162,55 +162,7 @@
 				}
 			]
 		},
-		{
-			"id": 17,
-			"destino": "Rússia",
-			"duracao": 8,
-			"interesse": "história e cultura",
-			"imagem": "url_da_imagem_russia",
-			"roteiro": [
-				{
-					"dia": 1,
-					"atividade": "Chegada em Moscou e visita à Praça Vermelha.",
-					"imagem": "url_da_imagem_dia_1"
-				},
-				{
-					"dia": 2,
-					"atividade": "Explorar o Kremlin e a Catedral de São Basílio.",
-					"imagem": "url_da_imagem_dia_2"
-				},
-				{
-					"dia": 3,
-					"atividade": "Passeio pelo Teatro Bolshoi.",
-					"imagem": "url_da_imagem_dia_3"
-				},
-				{
-					"dia": 4,
-					"atividade": "Viagem para São Petersburgo.",
-					"imagem": "url_da_imagem_dia_4"
-				},
-				{
-					"dia": 5,
-					"atividade": "Visita ao Museu Hermitage.",
-					"imagem": "url_da_imagem_dia_5"
-				},
-				{
-					"dia": 6,
-					"atividade": "Explorar os Palácios de Peterhof.",
-					"imagem": "url_da_imagem_dia_6"
-				},
-				{
-					"dia": 7,
-					"atividade": "Passeio por canais de São Petersburgo.",
-					"imagem": "url_da_imagem_dia_7"
-				},
-				{
-					"dia": 8,
-					"atividade": "Retorno ao aeroporto.",
-					"imagem": "url_da_imagem_dia_8"
-				}
-			]
-		}
+		
 	],
 	"hoteis": [
 		{
@@ -304,36 +256,7 @@
 			]
 		},
 		
-		{
-			"id": 9,
-			"nome": "National Hotel Moscow",
-			"localizacao": "Moscou, Rússia",
-			"avaliacao": 4.6,
-			"preco_diaria": 180.00,
-			"imagem": "url_da_imagem_national_hotel",
-			"destino": "Rússia",
-			"amenidades": [
-				"Wi-Fi grátis",
-				"Próximo da Praça Vermelha",
-				"Academia",
-				"Recepção 24h"
-			]
-		},
-		{
-			"id": 10,
-			"nome": "Four Seasons Hotel",
-			"localizacao": "São Petersburgo, Rússia",
-			"avaliacao": 4.9,
-			"preco_diaria": 450.00,
-			"imagem": "url_da_imagem_four_seasons_sp",
-			"destino": "Rússia",
-			"amenidades": [
-				"Localizado próximo ao Hermitage",
-				"Spa de luxo",
-				"Restaurante internacional",
-				"Concierge exclusivo"
-			]
-		}
+		
 	],
 	"voos": [
 		{
@@ -369,17 +292,7 @@
 			"ida": "2024-05-10T11:25",
 			"volta": "2024-05-18T23:50"
 		},
-		{
-			"id": 5,
-			"origem": "Rio de Janeiro, Brasil",
-			"destino": "Moscou, Rússia",
-			"companhia_aerea": "Lufthansa",
-			"duracao": "15h",
-			"preco": 5200.00,
-			"classe": "Econômica",
-			"ida": "2024-07-20T21:40",
-			"volta": "2024-07-28T19:10"
-		},
+		
 		{
 			"id": 6,
 			"origem": "São Paulo, Brasil",
@@ -414,17 +327,7 @@
 			"volta": "2024-05-19T21:00"
 		},
 		
-		{
-			"id": 10,
-			"origem": "Rio de Janeiro, Brasil",
-			"destino": "São Petersburgo, Rússia",
-			"companhia_aerea": "Air France",
-			"duracao": "16h",
-			"preco": 5400.00,
-			"classe": "Econômica",
-			"ida": "2024-07-21T12:40",
-			"volta": "2024-07-29T06:50"
-		}
+		
 	],
 	"cotacoes": [
 		{
@@ -510,35 +413,8 @@
 				]
 			},
 			"custo_total": 7360.00
-		},
-		
-		{
-			"destino": "Rússia",
-			"voo": {
-				"origem": "Rio de Janeiro, Brasil",
-				"destino": "São Petersburgo, Rússia",
-				"companhia_aerea": "Air France",
-				"duracao": "16h",
-				"preco": 5400.00,
-				"classe": "Econômica",
-				"ida": "2024-07-21T12:40",
-				"volta": "2024-07-29T06:50"
-			},
-			"hotel": {
-				"nome": "Four Seasons Hotel",
-				"localizacao": "São Petersburgo, Rússia",
-				"avaliacao": 4.9,
-				"preco_diaria": 450.00,
-				"total_diarias": 8,
-				"total_hospedagem": 3600.00,
-				"amenidades": [
-					"Localizado próximo ao Hermitage",
-					"Spa de luxo",
-					"Restaurante internacional",
-					"Concierge exclusivo"
-				]
-			},
-			"custo_total": 9000.00
 		}
+		
+		
 	]
 }

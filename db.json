@@ -3,7 +3,7 @@
 		{
 			"id": 13,
 			"destino": "Nova Zelândia",
-			"duracao": 10,
+			"duracao": 8,
 			"interesse": "aventura e paisagens",
 			"imagem": "url_da_imagem_nova_zelandia",
 			"roteiro": [
@@ -46,23 +46,13 @@
 					"dia": 8,
 					"atividade": "Viagem para Milford Sound: cruzeiro.",
 					"imagem": "url_da_imagem_dia_8"
-				},
-				{
-					"dia": 9,
-					"atividade": "Visitação à geleira Franz Josef.",
-					"imagem": "url_da_imagem_dia_9"
-				},
-				{
-					"dia": 10,
-					"atividade": "Retorno ao aeroporto em Auckland.",
-					"imagem": "url_da_imagem_dia_10"
 				}
 			]
 		},
 		{
 			"id": 14,
 			"destino": "África do Sul",
-			"duracao": 9,
+			"duracao": 7,
 			"interesse": "safáris e natureza",
 			"imagem": "url_da_imagem_africa_do_sul",
 			"roteiro": [
@@ -100,23 +90,13 @@
 					"dia": 7,
 					"atividade": "Passeio por trilhas na reserva natural.",
 					"imagem": "url_da_imagem_dia_7"
-				},
-				{
-					"dia": 8,
-					"atividade": "Visita ao Blyde River Canyon.",
-					"imagem": "url_da_imagem_dia_8"
-				},
-				{
-					"dia": 9,
-					"atividade": "Retorno ao aeroporto de Joanesburgo.",
-					"imagem": "url_da_imagem_dia_9"
 				}
 			]
 		},
 		{
 			"id": 15,
 			"destino": "Tailândia",
-			"duracao": 8,
+			"duracao": 6,
 			"interesse": "praias e cultura",
 			"imagem": "url_da_imagem_tailandia",
 			"roteiro": [
@@ -149,16 +129,6 @@
 					"dia": 6,
 					"atividade": "Passeio nas ilhas Phi Phi.",
 					"imagem": "url_da_imagem_dia_6"
-				},
-				{
-					"dia": 7,
-					"atividade": "Relaxar na praia de Railay.",
-					"imagem": "url_da_imagem_dia_7"
-				},
-				{
-					"dia": 8,
-					"atividade": "Retorno ao aeroporto em Bangkok.",
-					"imagem": "url_da_imagem_dia_8"
 				}
 			]
 		},
